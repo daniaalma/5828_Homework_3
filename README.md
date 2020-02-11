@@ -1,2 +1,3 @@
 # 5828_Homework3
 ## Team Members: DANIA ELMADHUN AND PREETHI VIJAI LILLY
+CSCI 5828 – Spring 2020
