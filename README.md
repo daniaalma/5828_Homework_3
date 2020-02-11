@@ -1,1 +1,2 @@
 # 5828_Homework3
+## Team Members: DANIA ELMADHUN AND PREETHI VIJAI LILLY
